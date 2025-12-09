@@ -20,9 +20,8 @@ You can use following definitions in your equation:
 - Encoder's counts per revolution: $CPR$
 
 > Write down linear motion equation below. 👇
-$$
-> C = {{d \over 2πr}{CPR * i}}
-$$
+> $C = \frac{d}{2πr}(CPR*i)$
+
 
 > [!TIP]
 > If other quantities than the listed ones are needed.
