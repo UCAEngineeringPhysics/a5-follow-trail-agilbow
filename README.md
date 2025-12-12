@@ -53,7 +53,8 @@ $C = \frac{L\theta}{4πr}(CPR*i)$
 ### 2. (15%) Wiring
 Please upload your wiring diagram below to illustrate how the motors are controlled and monitored. 👇
 
-![wiring](images/wiring_diagram.jpg)
+<img width="1126" height="772" alt="image" src="https://github.com/user-attachments/assets/c5677171-a3b8-4106-94c2-d25aac0f082b" />
+
 
 ### 3. (70%) Coding
 
